@@ -1,0 +1,6 @@
+my_string = input()
+print("my_string" .upper())
+print("my_string" .lower())
+print("my_string " .replace( ' ' , ''))
+print("my_string" .replace( "my_string" , "m"))
+print("my_string" .replace( "my_string" , "g"))
